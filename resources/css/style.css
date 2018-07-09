@@ -1,0 +1,26 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+header, footer {
+  background-color: black;
+  width: 100%;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+  padding: 12px 0 12px 9px;
+}
+
+header img {
+  height: 27px;
+  margin-right: 18px;
+}
