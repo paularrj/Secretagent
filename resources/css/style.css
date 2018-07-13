@@ -118,3 +118,8 @@ ul {
   padding: 0;
   line-height: 1.5rem;
 }
+
+footer {
+  text-align: left;
+  height: 5rem;
+}
